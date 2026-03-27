@@ -39,5 +39,19 @@ The goal of this project is to demonstrate practical skills in:
 - `insights.md` = summary of findings
 - `screenshots/` = dashboard or chart images
 
+## Dashboard Preview
+
+### Tickets by Status
+![Tickets by Status](screenshots/status_chart.png)
+
+### Tickets by Category
+![Tickets by Category](screenshots/category_chart.png)
+
+### Response Time by Agent
+![Response Time](screenshots/response_time_chart.png)
+
+### Daily Ticket Volume
+![Daily Volume](screenshots/daily_volume_chart.png)
+
 ## Author
 Christine Bilinski
