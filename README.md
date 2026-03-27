@@ -53,5 +53,10 @@ The goal of this project is to demonstrate practical skills in:
 ### Daily Ticket Volume
 ![Daily Volume](screenshots/daily_volume_chart.png)
 
+## Data Cleaning
+- Handled missing values in the `status` column
+- Excluded incomplete records from satisfaction analysis
+- Ensured only resolved tickets were used for resolution metrics
+
 ## Author
 Christine Bilinski
